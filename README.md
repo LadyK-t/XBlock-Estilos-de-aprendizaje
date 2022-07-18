@@ -1,2 +1,1 @@
 # XbBock-Estilos-de-aprendizaje
-El test de dominancia cerebral de Hermann es un instrumento de 120 preguntas que se puede utilizar para averiguar cómo procesamos la información y cuál es el estilo particular de aprendizaje.Dentro de este modelo, se explica que el cerebro presenta cuatro cuadrantes y que por lo general todas las personas presentan cierta predisposición hacia alguna de estas tipologías.Esta prueba parte de una premisa importante:Cada persona tiene un modo particular a la hora de procesar información, de transformarla, de inducir datos y de interpretar.
